@@ -1,0 +1,381 @@
+export interface TocSection {
+  title: string;
+  bookId: 'basico' | 'herois' | 'ameacas' | 'baralho';
+  bookPage: number; // Página impressa no livro
+  pdfPage: number;  // Página real do PDF (basico = +6, herois = +2, ameacas = +2, baralho = +0)
+  items: Array<{
+    label: string;
+    bookPage: number;
+    pdfPage: number;
+  }>;
+}
+
+// Offset no Livro Básico: PDF = Livro + 6
+const lb = (label: string, bookPage: number) => ({
+  label,
+  bookPage,
+  pdfPage: bookPage + 6,
+});
+
+// Offset no Heróis de Arton: PDF = Livro + 2
+const ha = (label: string, bookPage: number) => ({
+  label,
+  bookPage,
+  pdfPage: bookPage + 2,
+});
+
+// Offset no Ameaças de Arton: PDF = Livro + 2
+const aa = (label: string, bookPage: number) => ({
+  label,
+  bookPage,
+  pdfPage: bookPage + 2,
+});
+
+// Offset no Baralho de Aventuras: PDF = Livro + 0
+const ba = (label: string, pdfPage: number) => ({
+  label,
+  bookPage: pdfPage,
+  pdfPage,
+});
+
+export const BOOKS_TOC: TocSection[] = [
+  // ==================== LIVRO BÁSICO (JOGO DO ANO) ====================
+  {
+    title: 'Introdução & Mecânica Básica',
+    bookId: 'basico',
+    bookPage: 6,
+    pdfPage: 12,
+    items: [
+      lb('Sumário Geral', 3),
+      lb('O que é Tormenta20 & Mecânica Básica', 8),
+      lb('Termos Importantes', 11),
+      lb('20 Coisas a Saber', 12),
+    ],
+  },
+  {
+    title: 'Cap. 1: Construção — Atributos & Raças',
+    bookId: 'basico',
+    bookPage: 14,
+    pdfPage: 20,
+    items: [
+      lb('Atributos Básicos & Tabela 1-1', 17),
+      lb('Raças (Tabela Geral)', 18),
+      lb('Humano', 19),
+      lb('Anão', 20),
+      lb('Dahllan', 21),
+      lb('Elfo', 22),
+      lb('Goblin', 23),
+      lb('Lefou', 24),
+      lb('Minotauro', 25),
+      lb('Qareen', 26),
+      lb('Golem & Hynne', 27),
+      lb('Kliren & Medusa', 28),
+      lb('Osteon & Sereia/Tritão', 29),
+      lb('Sílfide & Suraggel', 30),
+      lb('Trog', 31),
+    ],
+  },
+  {
+    title: 'Cap. 1: Classes, Origens & Deuses',
+    bookId: 'basico',
+    bookPage: 32,
+    pdfPage: 38,
+    items: [
+      lb('Regras de Classes & Multiclasse', 32),
+      lb('Arcanista', 36),
+      lb('Bárbaro', 40),
+      lb('Bardo', 43),
+      lb('Bucaneiro', 46),
+      lb('Caçador', 49),
+      lb('Cavaleiro', 52),
+      lb('Clérigo', 56),
+      lb('Druida', 60),
+      lb('Guerreiro', 64),
+      lb('Inventor', 67),
+      lb('Ladino', 72),
+      lb('Lutador', 75),
+      lb('Nobre', 78),
+      lb('Paladino', 81),
+      lb('Origens (Acólito a Trabalhador)', 85),
+      lb('Deuses do Panteão & Obrigações', 96),
+      lb('Toques Finais: PV, PM, Descanso, Tamanho', 106),
+    ],
+  },
+  {
+    title: 'Cap. 2: Perícias & Poderes Gerais',
+    bookId: 'basico',
+    bookPage: 112,
+    pdfPage: 118,
+    items: [
+      lb('Regras de Perícias', 114),
+      lb('Acrobacia, Adestramento, Atletismo, Atuação, Cavalgar', 115),
+      lb('Conhecimento, Cura, Diplomacia, Enganação', 117),
+      lb('Fortitude, Furtividade, Guerra, Iniciativa', 119),
+      lb('Intimidação, Intuição, Investigação, Jogatina, Ladinagem', 120),
+      lb('Luta, Misticismo, Nobreza, Ofício', 121),
+      lb('Percepção, Pilotagem, Pontaria, Reflexos, Religião', 122),
+      lb('Sobrevivência & Vontade', 123),
+      lb('Poderes de Combate', 124),
+      lb('Poderes de Destino', 129),
+      lb('Poderes de Magia', 131),
+      lb('Poderes Concedidos (Deuses)', 132),
+      lb('Poderes da Tormenta', 136),
+    ],
+  },
+  {
+    title: 'Cap. 3: Equipamento & Itens Superiores',
+    bookId: 'basico',
+    bookPage: 138,
+    pdfPage: 144,
+    items: [
+      lb('Riqueza, Carga & Espaços', 140),
+      lb('Armas & Tabela de Dano/Passos', 142),
+      lb('Tabela de Armas (Simples, Marciais, Exóticas)', 146),
+      lb('Armaduras & Escudos', 152),
+      lb('Itens Gerais, Alquímicos, Alimentação, Serviços', 155),
+      lb('Itens Superiores & Modificações', 164),
+    ],
+  },
+  {
+    title: 'Cap. 4: Magia',
+    bookId: 'basico',
+    bookPage: 168,
+    pdfPage: 174,
+    items: [
+      lb('Regras de Magias (Execução, Alcance, Duração, CD)', 170),
+      lb('Lista de Magias Arcanas (1º ao 5º Círculo)', 174),
+      lb('Lista de Magias Divinas (1º ao 5º Círculo)', 176),
+      lb('Descrição das Magias (A–Z)', 178),
+    ],
+  },
+  {
+    title: 'Cap. 5: Jogando & Combate',
+    bookId: 'basico',
+    bookPage: 212,
+    pdfPage: 218,
+    items: [
+      lb('Interpretação & Regras do Jogo (Testes, Opostos, Ajuda)', 214),
+      lb('Tipos de Dano, RD, Cura, Luz & Visão', 228),
+      lb('Combate: Ataque, Dano, Crítico, Iniciativa, Surpresa', 230),
+      lb('A Rodada e Tipos de Ações (Padrão, Movimento, Completa)', 233),
+      lb('Manobras: Agarrar, Derrubar, Desarmar, Empurrar, Quebrar', 234),
+      lb('Ferimentos, Sangrando & Morte', 236),
+      lb('Movimentação, Terreno Difícil, Camuflagem, Cobertura, Flanquear', 238),
+      lb('Quebrando Objetos (Tabela de PV e RD de Portas/Armas)', 239),
+    ],
+  },
+  {
+    title: 'Cap. 6: O Mestre (Cenas, Viagens, Perseguições)',
+    bookId: 'basico',
+    bookPage: 240,
+    pdfPage: 246,
+    items: [
+      lb('Como Mestrar & Construindo Aventuras', 242),
+      lb('NPCs & Parceiros (Aliados)', 257),
+      lb('Ambientes: Masmorras, Portas, Armadilhas', 263),
+      lb('Viagens pelos Ermos, Clima, Perdendo-se', 268),
+      lb('Ambiente Urbano & Perseguições', 271),
+      lb('Tempo entre Aventuras', 276),
+    ],
+  },
+  {
+    title: 'Cap. 7: Ameaças (Bestiário & Perigos)',
+    bookId: 'basico',
+    bookPage: 280,
+    pdfPage: 286,
+    items: [
+      lb('Construindo Combates & Cálculo de ND', 282),
+      lb('Tabela de Criaturas por ND (1/4 a 20)', 285),
+      lb('Ameaças: Masmorras (Glop, Orcs, Aranha, Mantícora, Golem)', 286),
+      lb('Ameaças: Ermos (Bandidos, Guardas, Lobo, Ogro, Grifo, Serpe)', 289),
+      lb('Ameaças: Os Puristas', 294),
+      lb('Ameaças: Reino dos Mortos (Zumbi, Esqueleto, Necromante, Vampiro)', 297),
+      lb('Ameaças: Os Duyshidakk (Goblins, Hobgoblins, Sombra de Thwor)', 300),
+      lb('Ameaças: Os Sszzaazitas (Cobras, Nagahs, Cultista, Hidra)', 304),
+      lb('Ameaças: Os Trolls Nobres (Finntroll, Troll)', 307),
+      lb('Ameaças: Os Dragões (Filhote a Dragão-Rei)', 310),
+      lb('Ameaças: A Tormenta (Lefou, Uktril, Geraktril, Sacerdote)', 314),
+      lb('Perigos, Armadilhas, Doenças & Perigos Complexos', 317),
+      lb('Fichas de NPCs', 322),
+    ],
+  },
+  {
+    title: 'Cap. 8 & 9: Recompensas, Arton & Condições',
+    bookId: 'basico',
+    bookPage: 324,
+    pdfPage: 330,
+    items: [
+      lb('Pontos de Experiência (XP) & Tesouros por ND', 326),
+      lb('Itens Mágicos (Armas, Armaduras, Poções, Acessórios)', 333),
+      lb('Artefatos', 346),
+      lb('Mundo de Arton: História & O Reinado', 350),
+      lb('Além do Reinado', 370),
+      lb('APÊNDICE: Lista Oficial de Condições (A–V)', 394),
+      lb('Índice Remissivo', 396),
+    ],
+  },
+
+  // ==================== HERÓIS DE ARTON ====================
+  {
+    title: 'Cap. 1: Novas Raças & Classe Treinador',
+    bookId: 'herois',
+    bookPage: 6,
+    pdfPage: 8,
+    items: [
+      ha('Sumário do Heróis de Arton', 3),
+      ha('Duende', 8),
+      ha('Eiradaan', 12),
+      ha('Galokk (Meio-Gigante)', 13),
+      ha('Meio-Elfo', 14),
+      ha('Sátiro', 15),
+      ha('Nova Classe: Treinador & MelhorAmigo', 16),
+    ],
+  },
+  {
+    title: 'Cap. 1: Classes Variantes & Origens',
+    bookId: 'herois',
+    bookPage: 22,
+    pdfPage: 24,
+    items: [
+      ha('Alquimista & Atleta', 22),
+      ha('Burguês & Duelista', 25),
+      ha('Ermitão & Inovador', 29),
+      ha('Machado de Pedra & Magimarcialista', 32),
+      ha('Necromante & Santo', 34),
+      ha('Seteiro & Usurpador', 38),
+      ha('Vassalo & Ventanista', 41),
+      ha('30 Novas Origens', 46),
+      ha('Novos Poderes de Classe (Arcanista a Paladino)', 54),
+      ha('Novos Poderes Gerais, de Raça e de Grupo', 78),
+      ha('Tabelas para Personagens (Nomes, Trejeitos, Aparências)', 96),
+    ],
+  },
+  {
+    title: 'Cap. 2: Distinções',
+    bookId: 'herois',
+    bookPage: 102,
+    pdfPage: 104,
+    items: [
+      ha('Regras de Distinções & Admissão', 104),
+      ha('Aeronauta Goblin, Algoz da Tormenta, Amazona', 106),
+      ha('Armadilheiro Mestre, Arqueiro de Lenórienn, Bruxo da Tormenta', 115),
+      ha('Caçador de Cabeças, Caçador de Dragões, Campeão de Dojo', 124),
+      ha('Capitão Pirata, Carteador, Cavaleiro do Corvo', 133),
+      ha('Cavaleiro Feérico, Chapéu-Preto, Cobaia, Dracomante', 142),
+      ha('Gigante Furioso, Ginete de Namalkah, Guerreiro Mágico', 163),
+      ha('Infiltrador, Mago do Vazio, Mago de Batalha, Médico de Salistick', 172),
+      ha('Mestre Bêbado, Mestre Cozinheiro, Mestre Mahou-Jutsu', 184),
+      ha('Mosqueteiro, Mutagenista, Pistoleiro de Smokestone, Vigarista', 196),
+    ],
+  },
+  {
+    title: 'Cap. 3: Arsenal dos Heróis & Bases',
+    bookId: 'herois',
+    bookPage: 214,
+    pdfPage: 216,
+    items: [
+      ha('Novas Armas, Armaduras & Escudos', 216),
+      ha('Itens Gerais, Aparatos de Engenhoca, Alimentação', 227),
+      ha('Capangas & Veículos', 240),
+      ha('Bases de Grupo (Quartel-General, Cômodos, Mobília)', 244),
+      ha('Novas Magias Arcanas', 252),
+      ha('Novos Itens Mágicos, Inteligentes, Amaldiçoados & Artefatos', 256),
+    ],
+  },
+  {
+    title: 'Cap. 4: Regras Opcionais',
+    bookId: 'herois',
+    bookPage: 278,
+    pdfPage: 280,
+    items: [
+      ha('Atributos Variados, Raças Abertas, Devoções Abertas', 280),
+      ha('Complicações (ex: De Peito Aberto)', 282),
+      ha('Idades Variadas, Objetivos Heroicos, Papéis no Grupo', 288),
+      ha('Combate Avançado (Ataques de Oportunidade, Mirados, Críticos, Lesões)', 296),
+      ha('Culinária Avançada', 305),
+      ha('Exploração de Masmorras', 310),
+      ha('Domínios & Regência', 314),
+      ha('Resumo de Regras Opcionais', 328),
+    ],
+  },
+
+  // ==================== AMEAÇAS DE ARTON (BESTIÁRIO) ====================
+  {
+    title: 'Cap. 1: Ameaças (Áreas de Tormenta a Golens)',
+    bookId: 'ameacas',
+    bookPage: 10,
+    pdfPage: 12,
+    items: [
+      aa('Sumário do Ameaças de Arton', 3),
+      aa('Fichas, Tipos & Habilidades Gerais de Criaturas', 12),
+      aa('Áreas de Tormenta (Alma, Bruxo, Lefeu, Gatzvalith)', 18),
+      aa('Brutos & Indomáveis (Meio-Orc, Orc, Sapo, Trog, Ogro)', 30),
+      aa('Capangas & Bandoleiros (Bandido, Chefe, Hyninn, Gatuno, Duplo)', 42),
+      aa('Culto de Aharadak (Acólito, Aspecto, Reishid, Avatar)', 52),
+      aa('Dragões (Menor, Adulto, Venerável, Bicéfalo, Real, Sckhar)', 64),
+      aa('Duyshidakk (Bugbear, Bruxa Goblin, Hobgoblins, Sangue de Ayrrak)', 78),
+      aa('Elementais (Água, Ar, Fogo, Terra, Corrompido)', 88),
+      aa('Ermos (Bulette, Carrasco de Lena, Centauros, Ente, Rhandomm)', 102),
+      aa('Gnolls (Caçador, Líder, Xamã, Matrona, Vuul’rak)', 114),
+      aa('Golens (Gárgula, Barro, Bronze, Carne, Espelhos, Ferro, Matéria Vermelha)', 124),
+    ],
+  },
+  {
+    title: 'Cap. 1: Ameaças (Igreja de Arsenal a Mundo Perdido)',
+    bookId: 'ameacas',
+    bookPage: 136,
+    pdfPage: 138,
+    items: [
+      aa('Igreja de Arsenal (Coletor, Forjador, Kishin, Kishinauros)', 136),
+      aa('Igreja de Kallyadranoch (Cavaleiro, Dracomante, Kallyanach, Avatar)', 144),
+      aa('Império de Jade (Kabuto, Kaijin, Kappa, Mashin, Nezumi, Oni, Tengu)', 154),
+      aa('Império de Tauron (Centurião, Fúria, Gladiador, Legionário, Governador)', 168),
+      aa('Kobolds (Armadilhas, Cão de Kally, Explosivo, Xamã, Kobold-Mãe)', 178),
+      aa('Mascotes & Familiares (Bogum, Fofo, Homúnculo, Tentacute)', 190),
+      aa('Masmorras (Asa-Assassina, Cocatriz, Glop, Mímico, Quimera, Brawar)', 198),
+      aa('Montarias & Feras (Cavalo, Gorlogg, Felinos, Trobo, Urso, Warg, Unicórnio)', 210),
+      aa('Mortos-Vivos (Carniçal, Esqueleto, Fantasma, Múmia, Necrodraco, Tarso)', 228),
+      aa('Mundo Perdido / Galrasia (Burafonte, Deinonico, Raagoran, Rei-Tirano)', 242),
+    ],
+  },
+  {
+    title: 'Cap. 1 a 3: Piratas a Bazar Monstruoso & Encontros',
+    bookId: 'ameacas',
+    bookPage: 252,
+    pdfPage: 254,
+    items: [
+      aa('Piratas & Pistoleiros (Afogado, Demônio da Pólvora, Chapéu-Preto, Lobo do Mar)', 252),
+      aa('Povos-Trovão (Ceratops, Pteros, Velocis, Voracis, Totens)', 264),
+      aa('Supremacia Purista (Arcano, Caçador, Dançarino, Soldado Blindado/Superior)', 274),
+      aa('Reino dos Mortos / Aslothia (Alzeras, Cemitério Vivo, Lich, Ferren Asloth)', 284),
+      aa('Reinos de Moreania (Búfalo, Hippossauro, Mantícora, Yidishan, Moreau)', 296),
+      aa('Montanhas Sanguinárias (Cerianthar, Oxxdon, Razza’Kham, Serpe, Kaiju)', 306),
+      aa('Sob as Ondas (Canceronte, Elfo-do-Mar, Enguia Rainha, Nereida, Kraken)', 314),
+      aa('Sszzaazitas (Adorador, Górgona, Nagahs, Rival Espelho, Nastarrath)', 326),
+      aa('Trolls Nobres (Arcanista/Opressor/Cavaleiro/Sacerdote Finntroll, Mycotann)', 338),
+      aa('Montanhas Uivantes (Carcaju, Golem de Nor, Mamute, Verme de Gelo)', 348),
+      aa('Novos Perigos, Perigos Complexos & Chefe Final (Rei da Arena)', 358),
+      aa('Cap. 2: Manual de Criação de Ameaças & Bandos', 377),
+      aa('Cap. 3: Bazar Monstruoso (Armas, Armaduras, Recursos Naturais, Itens)', 390),
+      aa('Apêndice B & C: Criaturas por Ordem Alfabética e por ND', 418),
+      aa('Apêndice D: Tabelas de Encontros Aleatórios por Terreno e Região', 422),
+    ],
+  },
+
+  // ==================== BARALHO DE AVENTURAS ====================
+  {
+    title: 'Baralho de Aventuras Completo (55 Cartas)',
+    bookId: 'baralho',
+    bookPage: 2,
+    pdfPage: 2,
+    items: [
+      ba('Instruções: Método Nimb & Método Khalmyr', 2),
+      ba('Enredos (Págs. 3–9): Trabalho, Jornada, Resgate, Perseguição, Conflito, Diplomacia, Mistério', 3),
+      ba('Personagens (Págs. 10–19): Autoridade, Aliado, Rival, Protegido, Mentor, Profeta, Bufão, Capanga, Ídolo, Entidade', 10),
+      ba('Ameaças (Págs. 20–29): Clérigos, Arcanistas, Criminosos, Dragões, Duyshidakk, Natureza, Feras, Humanoides, Lefeu, Mortos-Vivos', 20),
+      ba('Locais (Págs. 30–41): Urbano, Fortificação, Rural, Ermos, Fronteiras, Subterrâneo, Lar de Vilão, Covil, Arcano, Divino, Ruínas, Infestações', 30),
+      ba('Objetos (Págs. 42–47): Armas & Armaduras, Riquezas, Mercadorias, Quinquilharias, Mercado Clandestino, Itens Mágicos', 42),
+      ba('Eventos (Págs. 48–57): Acidente, Anomalia, Celebração, Dádiva, Fenômeno Natural, Guerra, Negociação, Praga, Presença Divina, Traição', 48),
+    ],
+  },
+];

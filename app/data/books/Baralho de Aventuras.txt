@@ -1,0 +1,1491 @@
+
+
+===== PAGINA 1 =====
+
+
+===== PAGINA 2 =====
+Instruções
+Este baralho irá ajudá-lo a criar histórias para suas 
+aventuras. Há duas maneiras básicas de usá-lo.
+Método Nimb
+Embaralhe as cartas e puxe-as até sair uma carta de 
+enredo (veja os ícones dos tipos de carta abaixo). 
+Ela traz a estrutura da história e diz quais outras 
+cartas você precisa. Se você já tiver puxado as 
+cartas solicitadas, use-as. Caso contrário, continue 
+puxando cartas até ter todas (ignore cartas não 
+solicitadas). Respeite os papéis em que as cartas 
+aparecerem, mesmo que à primeira vista não 
+façam sentido — trabalhe com o que foi puxado, 
+sem se deixar prender pela “lógica”.
+Método Khalmyr
+Se não quiser deixar sua aventura nas mãos do 
+caos, use as cartas como um catálogo de ideias. 
+Apenas leia cada uma e escolha as que preferir 
+para montar uma trama ou incrementar uma 
+história que você já tenha criado.
+Tipos de Cartas
+Enredo Local
+Personagem Objeto
+Ameaça Evento
+Para mais informações e exemplos de uso, acesse 
+jamboeditora.com.br/baralho-de-aventuras.
+
+===== PAGINA 3 =====
+O grupo está numa aldeia ou cidade quando 
+uma figura conhecida (um velhinho, uma 
+taverneira, um clérigo...) anuncia que pre-
+cisa de aventureiros para resolver um pro-
+blema local. A ameaça está restrita a região 
+e se encontra perto dali, mas a população 
+está indefesa contra ela. Os aventureiros 
+devem descobrir a origem ou fraqueza dos 
+inimigos, então combatê-los. Uma vez que 
+vençam o perigo, os personagens recebem 
+uma recompensa. Esta é a estrutura de 
+história mais básica de todas, ideal para 
+grupos iniciantes.
+trabalho de aventureiro
+ x2. O NPC que contrata os heróis e o vilão 
+da história.
+ x2. Os capangas do vilão.
+ x2. A localidade pela qual os personagens 
+devem passar para investigar os inimigos ou ter 
+um primeiro embate. Em seguida, a localidade 
+do combate decisivo.
+ x1. A recompensa do trabalho ou algo que 
+os personagens podem encontrar na primeira 
+localidade e usar para enfrentar o vilão.
+
+===== PAGINA 4 =====
+Os aventureiros precisam chegar até um lu-
+gar distante. Assim que se afastam do ponto 
+de origem, entram num terreno exótico, 
+inexplorado, onde maravilhas e horrores 
+aguardam a cada passo. Esta aventura é 
+uma série de encontros ligados entre si 
+apenas pela presença dos heróis. Eles po-
+dem encontrar monstros, vilões ou mesmo 
+aliados inesperados. Eles não podem ficar 
+parados muito tempo num mesmo lugar, 
+seja por pressa ou pela atração do destino 
+em si. Cada lugar visitado é muito marcante 
+e diferente. A parte mais importante não é 
+o destino, mas o caminho — uma vez que 
+cheguem lá, os aventureiros cumprem sua 
+missão, ou pelo menos esta fase. A jornada 
+deve transformá-los ou deixar marcas em 
+cada um deles.
+,  ou  x1. O motivo da jornada (NPC 
+para escoltar, objeto para encontrar, evento para 
+resolver...).
+ x3. As localidades pelas quais os personagens 
+devem passar.
+,  ou  x3. Um encontro para cada local.
+jornada
+
+
+===== PAGINA 5 =====
+Algo ou alguém está guardado ou preso em 
+território inimigo. A missão dos persona-
+gens é entrar nesse terreno hostil, libertar 
+ou pegar o que quer que seja, então voltar 
+com o objetivo em segurança. É provável 
+que a volta seja ainda mais perigosa que a 
+ida, já que os inimigos podem já saber da 
+presença dos heróis e fazer de tudo para 
+impedir que eles escapem. O objetivo pode 
+ser qualquer coisa, desde um tesouro no 
+fundo de uma masmorra até um prisioneiro 
+no calabouço de um vilão. Caso o objetivo 
+seja uma pessoa, ela pode ou não querer sair 
+com os personagens. As motivações podem 
+ser altruístas ou gananciosas. Quanto mais 
+os heróis se aproximam do objetivo, mais 
+perigosa se torna a aventura.
+ ou   x1. Aquilo que deve ser resgatado.
+ x2. O local no qual o objetivo está e um local 
+pelo qual os personagens devem passar para 
+chegar até ele.
+ x4. Perigos que os personagens devem en-
+frentar (metade na ida, metade na volta).
+resgate
+
+===== PAGINA 6 =====
+Há dois lados nesta aventura: um está ten -
+tando fugir e o outro está em seu encalço. 
+Os aventureiros podem estar em qualquer 
+um deles — talvez estejam no rastro de um 
+monstro que vem atacando as aldeias locais, 
+talvez estejam fugindo de um vilão poderoso. 
+Esta aventura é sobre movimentação e pressão 
+constante. Se os heróis são os caçadores, sua 
+presa está sempre um passo à frente, capaz 
+de fugir sempre que eles chegam perto. Caso 
+sejam caçados, seu perseguidor está sempre 
+em seus calcanhares; mesmo uma breve pa -
+rada para descansar é um risco. Se o caçador 
+alcançar a presa, há um combate decisivo. 
+Caso contrário, o clímax acontece durante o 
+último trecho de perseguição desesperada.
+perseguição
+ ou  x1. Role um dado; num resultado 
+ímpar, os personagens são os perseguidores e a 
+carta representa a presa (e vice-versa).
+ ou  x1. O motivo da perseguição. A presa 
+pode ter o objeto ou a solução para o evento.
+ x3. Locais pelos quais a perseguição acontece. 
+Se a presa passar pelo último, estará a salvo.
+ ou  x3. Todos os NPCs são alvo de descon-
+fiança! Será que podem trair os heróis, entregan-
+do-os para o perseguidor? Será que podem ter 
+ajudado o fugitivo?
+
+===== PAGINA 7 =====
+Duas ou mais facções num mesmo local estão 
+prestes a se enfrentar. Talvez uma dessas 
+facções sejam os próprios aventureiros, ou 
+talvez eles sejam forasteiros que chegam para 
+ajudar um dos lados (ou se aproveitar da riva-
+lidade...). Esta aventura pode ser uma trama 
+de intriga e traições — por exemplo, duas 
+famílias criminosas disputando uma cidade. 
+Ou pode ser uma simples história de batalhas 
+épicas — os aventureiros chegam a um lugar 
+ameaçado por vilões, como uma vila sob jugo 
+de um dragão ou um castelo sendo invadido 
+por mortos-vivos, descobrem sua natureza 
+e suas fraquezas, então atacam. O início da 
+aventura envolve investigação e preparação. Já 
+o clímax é a resolução do conflito em si. Isso 
+pode ser através de espionagem e diplomacia, 
+ou puro combate e ação.
+ x1d4. O líder de cada facção. Caso haja ape-
+nas uma facção, o conflito será contra o grupo. 
+Caso haja mais de uma, os personagens podem 
+ser aliados de um lado ou neutros.
+ = acima. Os capangas de cada facção.
+ ou  x1. O motivo do conflito (domínio 
+sobre um lugar ou posse de um objeto).
+conflito
+
+===== PAGINA 8 =====
+Existe um problema que não pode ser solucio-
+nado por força bruta. A única forma de chegar à 
+vitória é através de interação social. Exemplos 
+desta aventura incluem o julgamento de um 
+personagem ou de um NPC, um conselho 
+de nobres para formar uma aliança ou um 
+grande baile onde é preciso descobrir uma 
+informação ou cair nas graças de uma figura 
+importante. Os heróis devem impedir qualquer 
+violência, pois isso colocaria tudo a perder. 
+Não quer dizer que todas as interações sejam 
+amigáveis — há intriga, farpas, insinuações, 
+boataria... Embora esta aventura normalmente 
+seja urbana, pode se passar nos ermos — por 
+exemplo, druidas decidindo atacar ou não a 
+civilização, ou tribos bárbaras se reunindo 
+num grande debate.
+,  ou  x1. O objetivo da diplomacia.   
+Cair nas graças de um NPC (ou inocentá-lo de um 
+crime), conseguir um objeto, reunir recursos ou 
+ajuda para resolver um evento etc.
+ x1d4. NPCs contrários ao grupo.
+ x1. Um local importante para a diplomacia 
+(como um ponto neutro onde todos podem se 
+reunir sem risco de violência).
+diplomacia
+
+===== PAGINA 9 =====
+Ocorreu algo ruim — em geral um crime, 
+como um assassinato ou roubo, mas também 
+pode ser uma maldição, um acidente, uma 
+declaração de guerra... O dever dos heróis é 
+descobrir como e por quê isso aconteceu e 
+encontrar o culpado. O exemplo mais clássico 
+é o assassinato de um nobre em sua mansão. 
+Todos os presentes são suspeitos. Descobrir o 
+motivo e os meios para cometer o crime leva 
+à descoberta do culpado. Mas também pode 
+ser algo diferente. Por que todos os servos 
+foram petrificados? Como a torre do mago 
+explodiu? Por que a cidade vizinha fechou 
+seus portões? Os elementos para solucionar 
+a charada devem estar presentes na própria 
+aventura. Basta interrogar NPCs, investigar 
+provas e juntar as pistas!
+,  ou  x1. O mistério que deve ser 
+solucionado. Um NPC assassinado, um objeto 
+roubado, um evento a ser explicado etc.
+ x1. O culpado pelo mistério.
+ x1. Capangas do vilão.
+,  ou  x4. Pistas do mistério. NPCs 
+possuem informações, objetos são provas, locais 
+possuem indícios do que aconteceu etc.
+mistério
+
+
+===== PAGINA 10 =====
+O papel da autoridade é mandar. Seu poder 
+pode ser apenas político ou econômico, como 
+um rei velho e frágil ou uma mercadora rica. 
+Ou pode ser físico, espiritual ou mágico — 
+uma chefe bárbara, um sumo-sacerdote, uma 
+arquimaga. A autoridade não desempenha 
+muitas ações práticas, não “põe a mão na 
+massa”, porque está ocupada administrando 
+seu domínio, como um reino, caravana, es-
+cola ou navio. Num papel heroico, ajudará 
+os aventureiros com recursos ou permissões. 
+Num papel hostil, planejará a derrota dos 
+heróis, mandando capangas e monstros 
+contra eles. Se a autoridade for enfrentada, 
+será uma batalha terrível que pode mudar 
+o destino da campanha.
+Autoridade
+Exemplos
+Barão do Reinado. Humano de meia-idade. 
+Severo, mas justo.
+Dama do Bosque. Dahllan líder de uma seita de 
+druidas e feiticeiras, fria e distante.
+Lorde dos Ossos. Osteon necromante. Refinado, 
+apesar de vestir trapos.
+Princesa Mercante. Hynne proprietária de uma 
+caravana ou navio. Ambiciosa e pragmática.
+
+
+===== PAGINA 11 =====
+Uma figura em quem os heróis podem confiar. 
+Ele está em pé de igualdade com eles — se não 
+for um aventureiro, seu papel na sociedade 
+lhe concede tanto poder quanto a habilidade 
+de lutar ou lançar magias. O aliado tem sua 
+própria vida; não é um lacaio ou fã. Mas, 
+quando surge, é um alívio em um mundo cheio 
+de monstros e vilões, um “astro convidado” 
+cuja presença traz alegria aos jogadores. Se 
+estiver no papel de um inimigo, o aliado pode 
+ter sofrido controle mental, sido chantageado 
+ou mesmo se revelar um traidor! Outra opção 
+é que a aventura não seja um caso de vida ou 
+morte — como um campeonato ou caça ao 
+tesouro. Nesse caso, o aliado irá competir 
+contra o grupo, mas não vai trapacear ou ferir 
+os personagens.
+aliado
+Exemplos
+Acólito Abençoado. Aggelus ansioso por usar 
+seus poderes divinos para curar o grupo.
+Artífice Ambulante. Kliren entusiasmado, dis-
+posto a emprestar inventos para o grupo.
+Capitã da Guarda. Anã exigente e rabugenta, mas 
+que confia nos heróis.
+Estudiosa Idealista. Elfa que ajuda os heróis 
+para provar o valor de seu povo.
+
+
+===== PAGINA 12 =====
+Alguém em pé de igualdade com os persona-
+gens — e oposto a eles. O rival pode ser um 
+aventureiro que compete com os heróis por 
+tesouros ou missões ou um inimigo verda -
+deiro, como o braço direito do vilão. Quando 
+se encontram, haverá um conflito, desde uma 
+troca de insultos até um combate. E, como o 
+rival tem poder equivalente ao dos heróis, 
+o resultado é sempre incerto. O rival não 
+precisa ser um oponente físico — o burocrata 
+que torna a vida dos heróis um inferno é um 
+exemplo de rival sem poder de combate. O 
+rival pode ser um grupo, como uma guilda de 
+ladrões. Se surgir numa posição de suporte, 
+pode sugerir uma trégua temporária contra 
+um mal maior ou ter seus próprios motivos 
+para querer que os personagens triunfem.
+rival
+Exemplos
+Cavaleiro Fanático. Humano honrado, mas cuja 
+visão limitada o coloca contra os heróis.
+Espiã Enganadora. Qareen agente de um reino 
+ou facção inimigo. Esperta e elegante.
+Pesquisador Obcecado. Golem que coloca sua 
+busca por descobertas acima de tudo e todos.
+Sargento Corrupto. Minotauro que ascendeu 
+na guarda através de falcatruas.
+
+
+===== PAGINA 13 =====
+O protegido é alguém que sofrerá um destino 
+terrível a menos que os personagens inter -
+venham. Quem quer que seja, é incapaz de 
+lidar sozinho com a situação. O protegido é 
+responsabilidade dos aventureiros, seja por 
+obrigação moral, seja porque foram pagos. 
+Se o protegido surgir ajudando os heróis, 
+pode ser mais uma complicação — ele acaba 
+atrapalhando ou precisa ser salvo. Ou então 
+pode revelar uma faceta oculta — é apenas 
+uma criança, mas foi abençoada com o poder 
+da cura. Caso surja como um inimigo, pode 
+prejudicar os heróis sem querer (revelando 
+informações aos vilões, pegando um item 
+amaldiçoado), ou pode desenvolver alguma 
+motivação sinistra e traí-los em troca de poder 
+— saindo de seu papel de protegido.
+protegido
+Exemplos
+Goblin Órfão. Verde, verruguento e fofo, sem 
+ninguém para lhe cuidar.
+Medusa Perseguida. Bondosa, mas está sendo 
+caçada por ser considerada um monstro.
+Nobre Envenenado. Vítima de traição, morrerá 
+se um antídoto não for encontrado.
+Sereia Encalhada. Jovem, ingênua e perdida no 
+mundo seco.
+
+
+===== PAGINA 14 =====
+A função do mentor é ensinar, dar conselhos 
+e repreender. Embora o mentor típico seja o 
+velho mestre que fala em enigmas, isso é só 
+uma opção. O mais importante é que, por 
+alguma razão, ele não desempenha a maior 
+parte das ações diretamente; apenas ensina e 
+incentiva os outros. O mentor não precisa ser 
+bondoso. Pode ser o mestre de um vilão (que 
+afinal deve ter aprendido suas habilidades com 
+alguém) ou um tutor tão severo que assume ele 
+mesmo o papel de um vilão. O mentor é uma 
+figura que exige respeito: muitas vezes envia 
+os heróis em missões — e eles obedecem. Se 
+surgir como um inimigo, pode estar testando 
+os heróis ou ensinando-lhes uma lição... Ou 
+ter sido corrompido por poderes maléficos 
+ainda maiores.
+mentor
+Exemplos
+Fada Sabichona. Sílfide com séculos de idade, 
+sábia e irritante.
+Mordomo Leal. Um osteon que não parou de 
+servir e ensinar nem mesmo após morrer.
+Parente Sênior. Pai, mãe, tio, avô ou irmão mais 
+velho de um dos personagens.
+Professor Recluso. Um lefou eremita, detentor 
+de conhecimentos únicos.
+
+
+===== PAGINA 15 =====
+Uma voz dos deuses, do destino ou de qual-
+quer poder inescrutável. A função do profeta 
+é conectar os personagens com um mundo 
+que está além de seu alcance, mas ele nunca 
+é facilmente acessível. Os jogadores nunca 
+devem conhecer tudo sobre ele. Se for “de -
+cifrado” e se tornar acessível, transforma-se 
+em outro arquétipo. Há um custo para falar 
+com o profeta. Pode ser um custo literal (um 
+sacrifício ou pagamento) ou algo mais pro -
+fundo. Talvez o destino seja incerto até que 
+o profeta o anuncie, quando então se torna 
+fixo, mesmo que seja terrível. Como suporte 
+dos heróis, o profeta pode dar informação ou 
+até mesmo surgir de repente para salvá-los. 
+Contra eles, torna-se um arauto da ruína ou 
+precisa ser apaziguado.
+profeta
+Exemplos
+Avatar de Valkaria. Encontrada no fundo de 
+uma masmorra.
+Ente Dorminhoco. Só acorda e conversa um dia 
+por ano.
+Fantasma Vidente. Invocá-lo exige que alguém 
+sacrifique um ano de seu futuro.
+Trog Ancião. Por algum motivo, vive isolado no 
+topo de uma montanha gelada.
+
+
+===== PAGINA 16 =====
+O bufão aponta o ridículo em volta dos heróis 
+— ou neles mesmos. Assim, é quem fala as 
+maiores verdades. Normalmente é inútil em 
+combate, mas pode ser poderoso. Independen-
+te disso, tem certa invulnerabilidade — por 
+exemplo, pode ser ignorado pelos vilões por 
+ser considerado um tolo. Se o bufão é ferido 
+ou morto, a trama fica mais séria e o culpado 
+se torna especialmente maligno e odiado. O 
+bufão também possui uma certa sabedoria 
+ingênua. Olhando tudo sem malícia, aponta 
+realidades que ninguém mais nota ou aceita. 
+Surgindo do lado dos personagens, ele desco-
+bre segredos, percebe fraquezas dos vilões e 
+sempre tenta ajudar. Como inimigo, torna-se 
+perigoso — suas bobagens são fachada para 
+uma mente astuta.
+bufão
+Exemplos
+Arquimago Bêbado. Cuidado — não há como 
+saber que magia esse anão irá lançar.
+Barda Desafinada. É difícil aturar essa qareen, 
+mas ela ainda assim por ser útil.
+Dragão Poeta. Parece poderoso e temível, mas 
+não faria mal a uma mosca.
+Velhinha Míope. Este avatar de Tanna-Toh faz 
+todos os comentários inconvenientes.
+
+
+===== PAGINA 17 =====
+O capanga é um personagem subserviente, 
+mas relevante para a história. A personalidade 
+deste arquétipo varia: pode ser tolo ou mais 
+esperto que seu mestre; pode idolatrar seus 
+superiores ou desprezá-los; pode sonhar em 
+ser aventureiro ou achar essa vida uma lou -
+cura. Quando está do lado dos heróis, pode 
+dar algum apoio simples, mas serve como 
+contraponto para as maravilhas e horrores 
+que eles testemunham; um lembrete de que 
+o mundo comum continua existindo. Quando 
+está contra eles, pode desistir e mudar de 
+lado se for capturado. No fim, o capanga só 
+quer sobreviver e receber seu salário. Grandes 
+façanhas são algo para se ouvir na taverna, 
+bebendo um caneco de cerveja. 
+capanga
+Exemplos
+Lacaio Puxa-saco. Hynne que nunca desgruda de 
+um dos heróis (ou do vilão).
+Escudeiro. Goblin que idolatra seu mestre, mas 
+talvez seja mais esperto que ele.
+Aprendiz de Mago. Apenas esperando seu mestre 
+dormir para roubar o grimório dele e fugir.
+Ama Severa. Administra todo o castelo, tem as 
+chaves de todas as portas...
+
+
+===== PAGINA 18 =====
+O ídolo é alguém a ser admirado. De alguma 
+forma, está acima dos aventureiros — pode ser 
+mais famoso, mais poderoso, mais honrado... 
+O ídolo pode conhecer os heróis, mas sempre 
+vai considerá-los um pouco inferiores. De 
+acordo com o papel dele na história, isso pode 
+se traduzir em auxílio ou conselhos, ou em 
+condescendência e desprezo. O ídolo não pode 
+mandar nos personagens, nem ser seu tutor. 
+Ele está ocupado com sua própria vida épica, 
+algo que os heróis só podem almejar. Mas o 
+ídolo não estará permanentemente acima dos 
+aventureiros. Em algum momento eles devem 
+falar com ele de igual para igual ou mesmo 
+salvá-lo. O momento em que o ídolo deixa de 
+ser um ídolo para se tornar um aliado ou rival 
+é um marco na história.
+ídolo
+Exemplos
+Arquimago Planar. Sempre explorando os 
+planos, passa pouco tempo em Arton.
+Escolhida Divina. Carrega a marca e os poderes 
+de um deus do Panteão.
+Lenda Aposentada. Depois de uma vida de 
+aventuras, só quer ser deixado em paz.
+Tirana Honrada. Ela nunca mente e nunca luta 
+covardemente, mas deseja conquistar o mundo.
+
+
+===== PAGINA 19 =====
+Às vezes os heróis sentem que são apenas 
+peões num jogo de forças incompreensíveis. 
+Quando isso acontece, a entidade está em 
+ação. Muitas vezes este arquétipo é preenchi-
+do pelos deuses. Outras vezes são criaturas 
+extraplanares ou ainda mais bizarras. Seja 
+como for, frente a uma entidade os heróis 
+são impotentes. Podem negociar, apaziguá-la, 
+evitá-la ou mesmo obedecer a ela, mas nunca 
+afetá-la seriamente. A entidade também é 
+imprevisível. Mesmo um deus bondoso neste 
+papel pode tomar atitudes aparentemente 
+malignas, mesmo um demônio pode ajudar 
+os heróis. Se a entidade quisesse matá-los, 
+eles estariam mortos. Contudo, isso seria a 
+mesma coisa que esmagar formigas. Em geral, 
+atrair a atenção da entidade só traz problemas.
+entidade
+Exemplos
+Juiz Eterno. Este avatar de Khalmyr julga os atos 
+dos heróis de forma imparcial e severa.
+Lekael Curioso. Lorde da Tormenta interessado 
+em observar mortais.
+Montanha Senciente. Para ela, humanos, anões, 
+elfos e outros são meras formigas.
+O Jogador. Humano imortal que gosta de apos-
+tas envolvendo a vida de pessoas comuns.
+
+
+===== PAGINA 20 =====
+Um representante do poder dos deuses, 
+como um clérigo, uma paladina ou uma 
+entidade extraplanar. Pode ser alguém 
+que se opõe diretamente à missão dos 
+aventureiros, uma criatura abissal invo -
+cada pelo antagonista, o representante 
+da divindade que protege o local ou um 
+vingador profano, que busca punir os 
+aventureiros por terem se oposto à sua 
+divindade no passado. O poder divino 
+pode se manifestar também como desafios 
+mágicos, perigos inusitados ou mesmo 
+armadilhas diabólicas.
+Clérigos & Celestiais
+Exemplos
+ cão do inferno, capelão de guerra, centauro 
+xamã, guerreiro de chifres, calafrio diabólico.
+ cultista de Sszzaas, jhumariel, sacerdote 
+de Ahadarak, súcubo, moléstia demoníaca.
+ inevitável parcus, margharon, orel, sacer- 
+dote sombrio, armadilha de símbolo da morte.
+ avatar (qualquer divindade), balor, fúria, 
+marilith, ruptura planar.
+
+===== PAGINA 21 =====
+Um conjurador arcano, como um mago 
+ou bardo, uma criatura inteligente com 
+poderes mágicos ou mesmo alguém com 
+habilidades semelhantes, como um inven-
+tor. Por sua natureza, estas ameaças são 
+inteligentes e astutas, e sabem escolher 
+o melhor momento para confrontar seus 
+inimigos. Armadilhas mágicas e fenômenos 
+arcanos ou místicos também se encaixam 
+neste grupo.
+arcanistas & mágicos 
+Exemplos
+ dríade, goblin engenhoqueiro, hobgoblin 
+mago de batalha, necromante, armadilha 
+de runa de proteção.
+ cavaleiro do leopardo negro, nagah mís-
+tica, necromante veterano, sílfide encan- 
+tadora, armadilha de símbolo da morte.
+ bruxa do mar, finntroll arcanista, lâmia 
+feiticeira, vampiro, turbilhão arcano.
+ bruxo da Tormenta, dragão ancião, lich, 
+medusa abissal, ruptura planar.
+
+===== PAGINA 22 =====
+De bandidos de beira de estrada à conspi-
+radores sszzaazitas e assassinos de aluguel, 
+Arton está repleta de indivíduos que operam 
+do outro lado da lei. Ameaças deste tipo 
+muitas vezes são empregadas como buchas 
+de canhão pelo verdadeiro antagonista, 
+ou podem ser um perigo local, como uma 
+gangue de ladrões de beira de estrada ou a 
+guilda de criminosos que opera na região. 
+Estas ameaças também podem representar 
+as ferramentas mais comuns de criminosos, 
+como armadilhas e venenos.
+criminosos
+Exemplos
+ bandido, capanga minotauro, chefe ban-
+dido, gnoll filibusteiro, armadilha de agulha 
+envenenada.
+ alto sacerdote de Hyninn, devorador 
+de medos, ogro das sanguinárias, 
+armadilha de desabamento do teto.
+ chapéu-preto, demônio da pólvora, duplo 
+avançado, lobo do mar, extrato de lótus negro.
+ avatar de Sszzaas, balor, navio fantasma.
+
+===== PAGINA 23 =====
+Um dragão ou seus servos dracônicos. Eles 
+podem ser seguidores de Kallyadranoch ou 
+seres independentes, mais preocupados 
+com seu próprio poder do que em agra -
+dar seu deus retornado. Os aventureiros 
+podem ter entrado inadvertidamente em 
+seu território, ou suas ações podem ter 
+despertado o interesse e curiosidade de 
+uma destas criaturas.
+dragões
+Exemplos
+ acólito de Kally, dragão filhote, kobolds, 
+meio-dragão, bile de dragão.
+ corcel de Kally, dragão jovem, tirano do 
+Terceiro, wyvern
+ alto sacerdote de Kally, dragão adulto, 
+dragonador.
+ avatar de Kally, dragão ancião.
+
+===== PAGINA 24 =====
+Com a ascensão de Thwor, goblinoides 
+de todas as espécies se tornaram mais 
+comuns e ousados. Esta ameaça pode 
+ser uma patrulha de soldados das tro -
+pas duyshidakk, bandidos goblinoides 
+independentes ou os perigos que estas 
+criaturas preparam para proteger suas 
+tribos e seus acampamentos.
+Duyshidakk
+Exemplos
+ arauto de Thwor, goblin engenhoqueiro,    
+goblin granadeiro, goblin salteador, armadi-
+lha de fosso camuflado.
+ devorador de medos, engenho de guerra 
+goblin, hobgoblin atirador, sombra de Th-
+wor, armadilha de abismo da morte.
+  alto sacerdote de Thwor, bruxa goblin, 
+hobgoblin campeão gladiador, hobgoblin 
+comandante tático.
+ avatar de Thwor, ginete do pavor, hobgo-
+blin general, profeta de Thwor.
+
+===== PAGINA 25 =====
+Uma criatura ligada às forças primordiais 
+da natureza. Pode ser uma manifestação das 
+energias naturais, como um elemental, ou 
+um humanoide com uma ligação profunda 
+com magia primitiva, como um druida. 
+Estes seres podem se manifestar como 
+predadores agressivos ou defensores fer -
+renhos de seu território, sempre dispostos 
+a confrontar aqueles que não demonstram 
+respeito pelo mundo natural. Em alguns 
+casos, a ameaça pode ser a própria natu -
+reza, manifestando-se na forma de perigos 
+naturais, como deslizamentos de terra ou 
+fenômenos climáticos.
+espíritos da natureza
+Exemplos
+ centauro, elemental familiar, fada-
+dragão, sílfide, avalanche.
+ couatl das trevas, elemental grande, golem 
+árvore matilha, sátiro, tempestade em alto mar.
+  centauro escolhido de Allihanna, eiradaan 
+nobre, velha bruxa, encruzilhada feérica.
+ avatar de Megalokk, elemental ancião, 
+unicórnio primordial, imersão em lava.
+
+===== PAGINA 26 =====
+Feras selvagens ou domesticadas, como 
+animais ou monstros. Pode ser um ataque 
+de predadores, pássaros espiões enviados 
+pelo inimigo, uma fera que assola a região 
+ou simplesmente uma montaria abandona-
+da no meio da estrada, talvez um achado 
+fortuito ou uma pista a ser investigada. Às 
+vezes, o próprio lar destas feras pode ser a 
+ameaça, como areia movediça ou desliza -
+mentos de terra inesperados.
+feras
+Exemplos
+ grifo, gorlogg, lobo, urso-coruja, jornada     
+pelos ermos.
+ centopeia-dragão, mantícora, troll das 
+cavernas, wyvern, tempestade em alto mar.
+  bullete primevo, hidra, kaiju insetoide, 
+lagash, queda de 20m.
+ A Divina Serpente, dragão ancião, kra-
+ken, rhanndom, imersão em lava.
+
+===== PAGINA 27 =====
+De cavaleiros humanos a caçadores élfi -
+cos, passando por ilusionistas qareen e 
+inventores goblins, os membros dos vários 
+povos de Arton podem se revelar oponen-
+tes perigosos, representando perigos que 
+exigem mais do que simples força para 
+serem vencidos.
+humanoides
+Exemplos
+ bandido, goblin salteador, soldado 
+purista, orc chefe.
+ capitão-baluarte, fintroll feitor, pistoleiro 
+infame, sala esmagadora, trog rei dos túneis.
+ bruxa goblin, caçadora rainha, dançarino 
+de guerra, gladiador campeão.
+ bruxo da Tormenta, lorde general, medu-
+sa abissal, profeta de Thwor.
+
+===== PAGINA 28 =====
+Mesmo longe das áreas de Tormenta, a 
+ameaça lefeu está presente, ainda mais com 
+a ascensão de Ahadarak. Espiões, adora -
+dores da Tormenta, criaturas corrompidas 
+e lugares ou objetos tocados pela ameaça 
+rubra podem ser encontrados praticamente 
+em qualquer lugar de Arton.
+Lefeu
+Exemplos
+ falcão fatídico, infecto, maníaco lefou, 
+uktril, armadilha de símbolo da dor.
+ geraktril, incubador, otyugh, reishid, 
+armadilha de símbolo da insanidade.
+ esmagador coletivo, lefeu sarektril, 
+senhor do gigante rubro, thuwarokk, veneno 
+extrato de matéria vermelha.
+ avatar de Ahadarak, lefeu ezzayn, 
+lefeu vuroktril, lefeu zirradak, doença de-
+mência rubra.
+
+===== PAGINA 29 =====
+Com o surgimento de Aslothia, mortos-vi-
+vos se tornaram mais comuns em Arton. 
+Podem ser mortos inquietos erguidos por 
+uma maldição local, servos criados pelo 
+antagonista para impedir os aventureiros, 
+agentes a serviço de outros interessados na 
+missão dos personagens ou simplesmente 
+mortos-vivos errantes, sedentos pela força 
+daqueles que ainda estão vivos. As energias 
+necromânticas podem também se mani -
+festar como maldições, objetos animados 
+e doenças misteriosas.
+mortos-vivos
+Exemplos
+ esqueleto, mastim das sombras, necro- 
+mante, turba de zumbis, infecção do esgoto.
+ aparição, falange, lobisomem, necroman-
+te veterano, maldição pegajosa.
+ mortalha, múmia, sacerdote sombrio, 
+vampiro, pó de lich.
+ cemitério vivo, lich, navio fantasma, 
+senhor das múmias, vórtice negro.
+
+===== PAGINA 30 =====
+urbano
+ Aldeia Remota
+Este punhado de choupanas de madeira com telhado 
+de sapê abriga por volta de cem habitantes. Longe 
+de qualquer castelo ou cidade grande, sua segurança 
+depende de aventureiros andarilhos.
+ Armazém desocupado
+Um grande galpão num bairro afastado da cidade. 
+Sua única porta e suas janelas estão lacradas com 
+tábuas, indicando que está abandonado... Ou que 
+é o lar de atividades escusas.
+ Palácio imperial
+Protegido por guardas de elite e golens poderosos, 
+o palácio é um mundo por si só, com incontáveis 
+aposentos e um labirinto de corredores. Seus grandes 
+salões possuem piso de mármore e decoração luxuosa.
+ Metrópole planar
+Uma cidade no Reino dos Deuses. Suas ruas são 
+abarrotadas de seres fantásticos, seu mercado fer -
+vilha de objetos encantados e suas torres altíssimas 
+impõem-se sobre os visitantes.
+
+===== PAGINA 31 =====
+fortificação
+ Torre de vigia
+Esta torre de pedra cinzenta tem três andares. Heras 
+sobem pelas paredes externas, mas um fio de fumaça 
+saindo de uma chaminé no topo mostra que ela está 
+habitada. Se por guardas do reino ou por bandidos, 
+não há como saber...
+ Castelo baronial
+Protegido por um muro alto e um portão pesado de ma-
+deira, consiste de um pátio com oficinas, dormitórios, 
+estábulos e outras construções, e do forte central, com 
+os aposentos do nobre, a sala do trono e os calabouços.
+ Muralha fantasmagórica
+Uma grande muralha de pedra com dez metros de 
+altura, erguida em eras antigas contra um invasor 
+esquecido. Está em ruínas em vários pontos, mas os 
+fantasmas que a guarnecem continuam sua vigia atenta.
+ Fortaleza móvel
+Um cubo de metal do tamanho de um pequeno castelo, 
+este apavorante engenho purista avança imparável 
+graças à força do vapor e da magia. Disparos de 
+canhões reduzem tudo em seu caminho à pó.
+
+===== PAGINA 32 =====
+rural
+ Fazenda subjugada
+Uma fazenda típica, com plantações, casa, celeiro e 
+estábulo — exceto que foi tomada por bandidos ou 
+monstros. Seus habitantes originais podem ter fugido 
+para pedir ajuda, estar presos como reféns ou mesmo 
+ter sido devorados...
+ Villa corrupta
+A propriedade rural de um governador dissidente 
+do Império de Tauron. Protegida por um muro de 
+pedra, possui uma mansão de um andar com um 
+átrio repleto de divãs, além de casas menores para 
+escravos e legionários desertores.
+ Corte feérica
+Numa clareira, um círculo de pedras marca a entrada 
+para um mundo onde é sempre crepúsculo. Fadas 
+dançam em palácios de cristal, mantendo convidados 
+mortais. Ou seriam prisioneiros?
+ Castelo nas nuvens
+De proporções titânicas, este castelo foi erguido por 
+uma raça de gigantes detentores de conhecimento 
+perdido, e flutua sobre as nuvens acima de Arton. 
+Será que seus construtores originais ainda o habitam?
+
+===== PAGINA 33 =====
+ermos
+ Floresta sombria
+Esta mata é formada por árvores de troncos grossos, 
+cujas copas se emaranham alto no céu e bloqueiam 
+toda a luz do sol. A terra é úmida, repleta de raízes 
+largas e teias de aranha.
+ Pântano funesto
+Água marrom e fétida, cipós e galhos retorcidos 
+bloqueando o caminho, insetos voejando — este 
+definitivamente não é um lugar agradável. Isso sem 
+considerar as gosmas, répteis e outras criaturas que 
+se escondem debaixo das águas turvas...
+ cadeia de montanhas
+As cordilheiras mais famosas de Arton são as 
+Uivantes — geladas, enevoadas — e as Sanguiná-
+rias — áridas e repletas de monstros e bárbaros. 
+Em comum, ambas possuem desfiladeiros, penhascos 
+escarpados e fendas perigosas. 
+ meteoro vagante
+Flutuando solitária pelo Éter, esta rocha é grande 
+o bastante para abrigar uma cidade. Cercada por 
+nuvens de poeira e abalada por terremotos e gêiseres, 
+parece prestes a se despedaçar. E talvez esconda seres 
+alienígenas que habitam a escuridão entre os mundos.
+
+===== PAGINA 34 =====
+Fronteiras
+ estrada afastada
+Uma estrada de terra batida, longe das grandes 
+rotas comerciais — e das patrulhas do Exército do 
+Reinado. Viajantes que trilhem este caminho devem 
+estar preparados para se defender. Especialmente onde a 
+estrada é bloqueada por árvores caídas e pedregulhos...
+ vastidão desolada
+Um descampado de terra seca e raízes mortas se 
+estende até o horizonte. Nenhuma vida parece crescer 
+aqui. Algo deixou essa região árida e morta... Algo 
+que talvez ainda ronde este lugar.
+ confins de arton
+Longe do Reinado, longe até mesmo das nações mais 
+afastadas, ficam os confins de Arton — terras não 
+mapeadas, onde a civilização nunca tocou. Tundras 
+inóspitas, onde o frio, a fome e a solidão podem ser 
+tão perigosos quanto monstros jamais vistos.
+ éter entre mundos
+O mar de estrelas entre Arton e os Mundos dos 
+Deuses é um lugar escuro, gelado e inóspito a vida. 
+Apenas as magias mais poderosas — ou os veículos 
+mais incríveis — permitem a um viajante explorar 
+este local. E ainda há as chuvas de meteoros...
+
+===== PAGINA 35 =====
+subterrâneo
+ caverna ocupada
+Uma gruta escura e úmida. Água goteja do teto, 
+insetos rastejam pelas paredes e, vindo do fundo, 
+sons — conversas de bandidos escondidos ou o rugido 
+de um monstro?
+ calabouço da morte
+Um labirinto repleto de armadilhas — poços com 
+estacas, pêndulos afiados que descem do teto, paredes 
+que se fecham esmagando qualquer um na sala. 
+Construído para proteger algum tesouro valioso ou 
+como um jogo sádico e mortal.
+ cidadela finntroll
+Esta comunidade subterrânea é repleta de palacetes, 
+arenas, templos a Megalokk e Tenebra e laboratórios 
+bioarcanos onde escravos são transformados em 
+monstros a serviço dos trolls subterrâneos. 
+ fenda para o vazio
+Um buraco na própria realidade. Do outro lado, 
+nenhum som, nenhum cheiro, apenas uma luz branca. 
+Que tipo de perigos bizarros espreitam num local onde 
+o tempo, o espaço e a própria vida nunca surgiram?
+
+===== PAGINA 36 =====
+lar de vilão
+ esconderijo de bandidos
+Em uma clareira no bosque que fica nas cercanias da 
+cidade, uma choupana antiga, com as janelas e telhas 
+quebradas, serve de base improvisada para bandidos 
+que assolam a região.
+ acampamento de humanoides
+Uma paliçada e uma torre de madeira protegem 
+um punhado de tendas fétidas, feitas de peles de 
+animais. No centro, uma pilha de ossos ritualísticos 
+e um estandarte pintado a sangue marcam este lugar 
+como uma ameaça aos povos civilizados do Reinado.
+ base purista
+Uma construção grande, de concreto bruto, prote -
+gida por torres de vigia, arame farpado e alarmes 
+mágicos. Soldados e magos puristas patrulham o 
+perímetro em rondas disciplinadas — e alertam os 
+oficiais ao menor sinal de problemas. 
+ palácio demoníaco
+Feita de rocha negra e protegida por um fosso de cha-
+mas, esta construção possui torres finas e retorcidas, 
+que perfuram o céu como os dedos de uma mão em 
+agonia. Dentro, as paredes são decoradas com cabeças 
+de mortais, os rostos congelados em eterna agonia.
+
+===== PAGINA 37 =====
+covil de monstros
+ poço gosmento
+Um poço de gosma verde, fétida e borbulhante. A 
+gosma é corrosiva e derrete qualquer matéria orgânica 
+— exceto pelos glops que surgem do poço, famintos por 
+dissolver qualquer criatura em seu caminho.
+ toca de predador
+Uma gruta larga, na encosta de um penhasco. Ao redor, 
+ossadas semidevoradas de animais e humanoides. De 
+dentro, um forte cheiro de carniça exala. Que fera seria 
+capaz de causar tanta destruição?
+ ninho de monstro voador
+No topo de um penhasco, um ninho feito de galhos 
+enormes serve de lar para uma fera alada. Um grifo? 
+Um wyvern? Ou algo ainda mais terrível? Escalar o 
+penhasco será difícil. Enfrentar a criatura, mais ainda.
+ covil dracônico
+No coração de uma montanha, esta grande câmara 
+natural possui uma abertura larga no topo e o chão 
+forrado de moedas e objetos de arte. Mais surpreen -
+dente do que isso é a energia arcana e elemental que 
+emana das paredes e do piso como um calor abrasador.
+
+===== PAGINA 38 =====
+arcano
+ laboratório de alquimista
+Numa rua pacata da cidade, esta pequena oficina fica 
+espremida entre prédios maiores. Dentro, estantes 
+abarrotadas de frascos com ingredientes dividem lugar 
+com mesas repletas de instrumentos de vidro e metal.
+ biblioteca mágica
+Um grande salão com diversos mezaninos iluminados 
+por gemas mágicas e repletos de estantes. Bibliotecá-
+rios esqueletos vagam pelos corredores, organizando 
+tomos antigos e caçando criaturas que escaparam 
+das páginas de seus livros e invadiram a realidade.
+ torre de arquimago
+Uma torre altíssima, de pedra lisa e branca, protegida 
+por muralhas de fogo, gelo e raios. Dentro, objetos 
+animados e monstros invocados se dividem entre servir 
+o senhor da torre e combater invasores.
+ nexo planar
+Em uma planície desolada, uma plataforma de pedra 
+com dezenas de metros de diâmetro flutua acima do 
+chão. Sobre ela, labaredas, relâmpagos, colunas de 
+pedra e jorros de água surgem a cada momento. 
+No centro da plataforma, portais levam a mundos 
+mágicos — mas chegar até lá é uma aventura por si só.
+
+===== PAGINA 39 =====
+divino
+ santuário cultista
+Uma sala escavada no subsolo de um armazém, 
+acessível por um alçapão escondido. Consiste de 
+uma câmara iluminada por braseiros e um altar de 
+pedra esculpido com o símbolo de deuses profanos.
+ templo profano
+Um santuário aos deuses do mal, este prédio escuro 
+possui colunas decoradas com crânios e patrulhas de 
+zumbis. De seu interior, cânticos sinistros entoam 
+rituais proibidos.
+ catedral maligna
+Uma construção lúgubre e grandiosa. Ao longo do 
+corredor central, pedestais sustentam bacias de onde 
+escorre sangue e, do teto, pendem grandes flâmulas 
+pintadas com símbolos profanos. Das paredes, energia 
+negativa emana como um frio enregelante.
+ abismo demoníaco
+Esta fenda na terra tem dezenas de metros de 
+largura, cospe chamas e fumos fétidos e emite uivos 
+horripilantes. Apenas se aproximar dela exige muita 
+coragem — imagine entrar...
+
+===== PAGINA 40 =====
+ruínas
+ cripta abandonada
+Uma pequena construção de pedra com entalhes 
+que remetem a cenas do passado. Dentro, o lugar é 
+frio e empoeirado. Morcegos dividem o espaço com 
+aranhas... e talvez com algo mais sombrio.
+ mina invadida
+Esta antiga mina anã possui diversas galerias 
+subterrâneas com caminhos marcados por trilhos de 
+ferro, ferramentas caídas pelo chão e salas trancadas. 
+Algumas paredes ainda brilham com o reluzir de 
+pedras preciosas. Por que ela foi abandonada então?
+ nave voadora caída
+Uma grande nau de madeira e vidro, com diversos 
+conveses, cada um com vários quartos entre dormitó-
+rios, laboratórios e mais. Ela veio de longe — além de 
+Arton. Que tipo de tesouros e conhecimentos esconde?
+ mundo desconhecido
+Além de Arton, outros mundos existem. Alguns, 
+destruídos por cataclismas ou pela morte de seu deus 
+patrono, vagam solitários pelo Éter, rochas inertes e 
+sem vida. Podem conter ruínas com tesouros valiosos... 
+Assim como os fantasmas de raças já esquecidas.
+
+===== PAGINA 41 =====
+infestações
+ porão infestado
+Uma sala grande, repleta de caixotes, barris e sombras 
+— a pouca iluminação vem de lampiões quase gastos. 
+Subitamente, algo se move em meio ao breu. Quem, 
+ou o que, habita este porão?
+ esgotos pútridos
+Estes túneis são cobertos de limo (e outras coisas 
+mais nojentas). No meio deles, corre um rio de água 
+fétida e espessa. Embora os esgotos não sejam um 
+lugar agradável, são a chave para chegar a qualquer 
+lugar da cidade acima...
+ necrópole assombrada
+Este labirinto de tumbas, criptas e mausoléus é 
+pontilhado por árvores secas e de galhos pontiagudos. 
+Uma névoa cinzenta e fina cobre todo o lugar, mis-
+turando-se a vultos e sombras de espíritos inquietos.
+ área de tormenta
+Um pesadelo aberrante, feito de nuvens vermelhas 
+que cospem ácido, matéria esponjosa e corrosiva, 
+construções feitas de anzóis, agulhas e navalhas, e 
+enxames de demônios insetoides.
+
+===== PAGINA 42 =====
+armas & armaduras
+Uma arma ou armadura superior ou mágica. 
+Pode ser a espada invejada pelo filho mima-
+do de um mercador, a arma de um crime 
+investigado pela guarda ou a recompensa 
+por um trabalho bem feito.
+1) Arma superior (1 modificação)
+2) Armadura superior (1 modificação)
+3) Arma superior (2 modificações)
+1) Arma superior (1d4+1 modificações)
+2) Armadura superior (1d4+1 modificações)
+3) Arma mágica (1 encanto)
+1) Arma superior e mágica 
+(1d4+1 modificações e 1 encanto)
+2) Armadura superior e mágica 
+(1d4+1 modificações e 1 encanto)
+3) Conjunto de arma e armadura mágicas 
+(1d3+1 encantos cada, encantos 
+similares)
+1) Arma superior e mágica 
+(1d3+3 modificações e 1d3+1 encantos)
+2) Armadura superior e mágica 
+(1d3+3 modificações e 1d3+1 encantos)
+
+===== PAGINA 43 =====
+riquezas
+Itens valiosos e que podem ser facilmente 
+vendidos pelo seu valor integral. Para definir 
+o valor da riqueza, role 1d4 x o nível do 
+grupo ao quadrado x T$ 100 ou use um 
+dos exemplos. Veja Controlando a Riqueza 
+(Tormenta20, p. 318) para mais informações.
+1) Torque de ouro de um chefe bárbaro        
+(T$ 1.000)
+2) Algibeira de um mestre de guilda (T$ 2.000)
+3) Colar de pérolas (T$ 4.000)
+1) Ídolo de ouro de um deus menor                    
+(T$ 6.500)
+2) Baú com moedas anãs (T$ 10.000)
+3) Anel de mitral com pedras preciosas        
+(T$ 25.000)
+1) Lingotes de adamante (T$ 20.000)
+2) Carroça com a coleta de tributos do rei 
+(T$ 50.000)
+3) Joias de um príncipe élfico (T$ 80.000)
+1) Colar de lágrimas de anjo (T$ 40.000)
+2) Cofre repleto de moedas de um sultão 
+planar (T$ 100.000)
+3) Coroa de Corullan VI, último rei de 
+Ghondriann (T$ 200.000)
+
+===== PAGINA 44 =====
+mercadorias
+Itens valiosos, mas que não são facilmente vendi-
+dos. Para definir o preço da mercadoria, role 1d4 x 
+o nível do grupo ao quadrado x T$ 100 ou use um 
+dos exemplos. A mercadoria pode ser vendida pela 
+metade do preço — vendê-la pelo preço integral 
+exigirá encontrar o comprador certo.
+1) Caixote de gorad (T$ 900)
+2) Barril de vinho élfico da Antiga Lenórienn 
+(T$ 3.150)
+3) Carroça repleta de linho, seda e outros 
+tecidos valiosos (T$ 4.000)
+1) Coleção de tomos antigos (T$ 6.400)
+2) Arca com engrenagens e outras matérias-
+-primas para engenhocas (T$ 22.400)
+3) Escritura de uma torre (T$ 38.400)
+1) Navio mercante (T$ 20.000)
+2) Baú com cristais e outras matérias-primas 
+para itens mágicos (T$ 68.000)
+3) Carta régia dando a posse de um feudo 
+(T$ 117.600)
+1) Carroça repleta de especiarias planares 
+(T$ 36.100)
+2) Vestido de festa de um avatar de Marah 
+(T$ 126.000)
+3) Navio voador (T$ 250.000)
+
+===== PAGINA 45 =====
+quinquilharias
+Objetos variados, sem utilidade ou valor aparente. 
+Invente um ou role 1d20 na tabela abaixo.
+1 Jarro com 4d10 olhos
+2 Vela que nunca se apaga
+3 Panela favorita de um mestre cuca hynne
+4 Medalha de uma ordem extinta
+5 Mecanismo de engrenagens sem função 
+aparente
+6 Diário de uma princesa
+7 Noz do carvalho de uma dríade
+8 Urna com as cinzas de um grande vilão
+9 Tapeçaria da época da Grande Batalha
+10 Rolo de pergaminhos com discursos de 
+um senador tapistano
+11 Boneca de pano que fala
+12 Caneca mágica que esfria a bebida
+13 Anel de ouro com o nome de amantes 
+proibidos
+14 Convites para um baile da nobreza
+15 Cabo quebrado de uma espada mágica.
+16 Pintura de um antigo monarca
+17 Chifres de um general táurico
+18 Martelo de um mestre ferreiro anão
+19 Frasco com sangue de dragão
+20 Uma roda de queijo
+
+===== PAGINA 46 =====
+mercado Clandestino
+Itens proibidos no Reinado — e na maior 
+parte das nações civilizadas. A posse de um 
+desses objetos pode gerar problemas, mas 
+também oportunidades...
+1) Arma de fogo superior  (1 modificação)
+2) Barril de achbuld                                                   
+(T$ 1.500 para o comprador certo)
+3) Veneno (até T$ 1.000, 1d3 doses)
+1) Arma de fogo superior                              
+(1d4+1 modificações)
+2) Carroça de achbuld                                           
+(T$ 15.000 para o comprador certo)
+3) Veneno (qualquer valor, 1d3 doses)
+1) Arma de fogo superior e mágica                
+(1d4+1 modificações e 1 encanto)
+2) Anel de sinete do Conselho-Mor                  
+do Reinado
+3) Documentos confidenciais (como 
+ordens militares) de uma nação
+1) Chave do cofre do Palácio Imperial
+2) Rubi da Virtude
+
+===== PAGINA 47 =====
+itens mágicos
+Itens mágicos, exceto armas e armaduras. 
+Podem ser poções, pergaminhos e acessó-
+rios — ou itens ainda mais exóticos, cujas 
+propriedades precisam ser investigadas.
+1) 1 poção
+2) 1 pergaminho
+3) Caixinha de madeira com 1d4+1 poções
+1) Baú com 1d6+3 poções
+2) Bornal com 1d4+1 pergaminhos
+3) Acessório menor
+1) Acessório médio
+2) Acessório maior
+1) Dois acessórios maiores relacionados
+2) Artefato à escolha do mestre
+
+===== PAGINA 48 =====
+Algo dá errado sem que ninguém 
+realmente tenha culpa, em geral 
+na pior hora possível. 
+Um acidente pode ser uma questão e vida 
+ou morte, como um naufrágio, ou uma 
+inconveniência, como uma roda de carroça 
+quebrada. 
+Acidentes são impessoais, irritantes e às 
+vezes humilhantes. Este elemento serve 
+para inserir um pouco de cotidiano nas 
+aventuras do grupo. Também é um lembrete 
+de que o mundo não é feito para os heróis: 
+estradas podem ser ruins, objetos podem 
+ser frágeis, o azar sempre pode acontecer. 
+Um acidente adiciona um pouco mais de 
+textura e até certa profundidade à histó -
+ria. Aventureiros que precisam lidar com 
+problemas cotidianos parecem mais reais. 
+Assim, suas façanhas heroicas são ainda 
+mais impressionantes. 
+Um acidente quase nunca deve decidir 
+uma trama importante, muito menos dar 
+cabo de um vilão. Use o acidente como 
+uma espécie de encontro autocontido, não 
+como uma ferramenta para resolver uma 
+parte significativa da história.
+acidente
+
+===== PAGINA 49 =====
+Por mais que os sábios estudem 
+e codifiquem a magia, ela ainda 
+é misteriosa e volúvel. Uma ano-
+malia sobrenatural é qualquer 
+fenômeno causado por magia ou 
+que afete seu funcionamento.
+Um local em que a magia não funciona ou 
+em que não há gravidade, uma mansão mal-
+-assombrada, um castelo maior por dentro 
+do que por fora. Pode ser a visita de uma 
+corte feérica ou a chegada de versões dos 
+próprios heróis no futuro. Também pode ser 
+um evento pontual: talvez os heróis troquem 
+de corpo entre si, fiquem presos num dia 
+que se repete eternamente, só consigam falar 
+cantando ou se tornem malignos.
+Este elemento adiciona o absurdo e o im-
+previsível à história. É uma boa chance de 
+fazer um “episódio especial”, forçando os 
+jogadores a saírem de sua zona de conforto: 
+de nada adianta a força do bárbaro num 
+mundo de sonhos. Apenas tenha certeza 
+de oferecer algum tipo de explicação, ou de 
+fazer com que os NPCs notem a falta de 
+razões para a anomalia. Caso contrário, os 
+jogadores podem achar que a sensação de 
+absurdo é fruto de um erro do mestre.
+anomalia sobrenatural
+
+===== PAGINA 50 =====
+Os aventureiros estão em um local 
+em festa.
+Um festival da colheita, um casamento, 
+uma coroação, o batismo de um príncipe, 
+uma justa, um campeonato na arena, um 
+feriado religioso, o aniversário de algum 
+feito heroico, até mesmo um funeral. Se os 
+heróis forem famosos, sua própria presença 
+pode ser o motivo da celebração! 
+Uma celebração é caracterizada pelo clima 
+positivo. Há exceções: num funeral ou dia 
+santo solene, o povo tende a estar mais 
+soturno. Outra característica é a presença 
+de muita gente. O povo está aglomerado, 
+estrangeiros vêm de longe, qualquer perso-
+nagem pode estar presente — e disposto a 
+conversar. Isso dá margem para inúmeros 
+acontecimentos, de pequenos furtos até 
+assassinatos ou declarações de guerra.
+A celebração é um bom momento para 
+mostrar o local onde o grupo está em sua 
+versão mais extrema. Uma celebração em 
+Wynlla será o dia mais mágico do ano, 
+ostentando a valorização das artes arcanas. 
+Já uma celebração em Bielefeld terá a ver 
+com a Ordem da Luz e assim por diante.
+celebração
+
+===== PAGINA 51 =====
+Nem sempre tudo está contra os 
+heróis. Esta carta é um lembrete 
+disso.
+Uma dádiva pode ser um item mágico en-
+contrado no fundo de uma masmorra, um 
+clérigo que cura os heróis sem esperar nada 
+em troca ou uma herança de um parente 
+distante. Talvez seja um reconhecimento, 
+como uma estátua dos heróis no meio da 
+cidade ou uma música narrando seus feitos 
+que é cantada em todas as tavernas. 
+O mais importante nesta carta é a sensação 
+de gratidão — por parte do grupo, dos NPCs 
+ou de ambos. Ela pode ser um alívio, um 
+momento de ajuda quando tudo parece inú-
+til. Use a dádiva para fortalecer laços entre 
+os aventureiros e o mundo, para ganhar um 
+pouco de boa vontade dos jogadores, para 
+lhes dar algo a mais para valorizar (e que 
+eles temam perder). 
+Com a combinação certa de cartas, a dádiva 
+possa causar problemas, mas isso deve 
+ser raro. Se até mesmo os presentes que 
+os heróis ganham forem uma forma de 
+ataque ou hostilidade, logo eles perderão 
+a motivação para ajudar qualquer um!
+dádiva
+
+===== PAGINA 52 =====
+Tempestades, maremotos, terremo-
+tos, erupções vulcânicas, avalan-
+ches, nevascas, incêndios... Muitas 
+vezes a natureza se volta contra 
+os aventureiros e tudo que eles 
+podem fazer é sobreviver. 
+Este evento pode ter uma forma branda 
+(chuva torrencial deixa a estrada escor -
+regadia) ou catastrófica (a queda de um 
+meteoro devasta uma região). De qualquer 
+forma, é algo fora do controle dos heróis. 
+Um fenômeno natural é uma boa maneira 
+de valorizar equipamentos. Um rolo de 
+corda e uma capa pesada serão mais úteis 
+que espadas mágicas! Também é uma boa 
+maneira de lembrar os jogadores de que 
+seus personagens são mortais. Frente a 
+um furacão, eles podem se prevenir ou se 
+proteger, mas não revidar.
+Este evento também deixa o mundo mais 
+vivo, ao obrigar os heróis a lidar com con-
+dições não ideais. É fácil pensar que o 
+terreno de cada batalha é uma arena feita 
+para acomodar os combatentes — mas não 
+quando este mesmo terreno está coberto 
+de gelo escorregadio!
+fenômeno natural
+
+===== PAGINA 53 =====
+Os heróis se deparam com dois ban-
+dos ou exércitos se enfrentando 
+ou prestes a se enfrentar.
+Como alternativa, podem encontrar uma 
+cidade sitiada, uma torre de vigia ou so -
+breviventes de algum conflito. 
+Os soldados têm uma visão de mundo 
+diferente dos heróis — são veteranos empe-
+dernidos que acham que aventureiros têm 
+vida fácil, ou então novatos iludidos. De 
+qualquer forma, podem morrer facilmente. 
+Use este evento para fazer os jogadores 
+pensarem de forma mais estratégica ou 
+em larga escala — em uma guerra, um 
+pequeno grupo não pode resolver tudo 
+sozinho. Talvez eles tenham que achar um 
+jeito de entrar na cidade sob cerco, talvez 
+precisem examinar terreno de batalhas, 
+rotas de suprimentos, códigos inimigos... 
+Este elemento também se presta para intro-
+duzir problemas como fronteiras fechadas, 
+acusações de espionagem, comandantes 
+inflexíveis... Coisas que lembram aos jo -
+gadores que Arton é um mundo repleto 
+de luta e sangue, e muito mais que a vida 
+livre dos aventureiros.
+guerra
+
+===== PAGINA 54 =====
+Às vezes os personagens querem 
+algo, um NPC também, e os dois la-
+dos devem chegar a um meio termo.
+Pode ser um leilão de um item mágico, 
+um tratado de paz, um suborno para que 
+um guarda ignore sua passagem... O mais 
+importante é que os heróis devem dar algo 
+valioso, para receber outra coisa em troca. 
+Cada um dos lados quer entregar o mínimo 
+possível. Use a negociação para lembrar os 
+jogadores de que o resto do mundo tem 
+suas próprias vidas, não existem apenas 
+em volta da história da campanha ou dos 
+heróis. Claro, eles precisam de uma capa de 
+invisibilidade para passar por trogs, mas o 
+inventor que a fabrica não está sendo amea-
+çado pelos trogs e não se importa com isso. 
+Em geral, uma negociação não pode ser 
+resolvida com combate, ou será apenas 
+um prelúdio para uma batalha: se os aven-
+tureiros podem dar cabo do necromante 
+antes que ele sacrifique o prisioneiro, não 
+precisam tentar aplacá-lo com barganhas. 
+Esta carta pode representar um grande 
+evento comercial, como a partida de uma 
+caravana ou navio mercante.
+negociação
+
+===== PAGINA 55 =====
+Uma doença, maldição ou veneno 
+afeta o desenrolar da aventura.
+Talvez seja algo contraído pelos próprios 
+heróis, talvez afete NPCs. A cura pode ser 
+o objetivo da missão inteira. 
+O elemento mais importante em uma praga 
+é sua natureza impessoal e intangível. Os 
+aventureiros não podem derrotar uma praga 
+com espadas ou magias. Talvez alguns po-
+deres divinos possam mitigar seus efeitos, 
+mas em geral uma praga significativa o 
+suficiente para afetar a aventura não pode 
+ser combatida com magias simples. 
+Outra característica marcante da praga é 
+que qualquer um pode ser contaminado. 
+Talvez só afete um grupo (todos os anões 
+da região estão se transformando em pedra, 
+nenhum arcanista consegue recuperar pon-
+tos de mana), mas dentro deste grupo é um 
+perigo generalizado. A praga não escolhe 
+inimigos, recai sobre pessoas bondosas ou 
+malignas igualmente.
+Em casos extremos, a corrupção pela Tor-
+menta pode ser uma praga, principalmente 
+se um cultista estiver usando artefatos aber-
+rantes para espalhar a Tempestade Rubra.
+praga
+
+===== PAGINA 56 =====
+Os deuses afetam quase todos os 
+grandes eventos de Arton.
+Esta carta indica que um deles manifestou 
+interesse pelo grupo ou pelos eventos da 
+campanha — seja por intervenção direta, 
+seja através de um sacerdote ou enviado. 
+Também pode indicar marcas da passagem 
+ou dos atos de algum deus, como uma es-
+pada abençoada, a cratera onde um avatar 
+foi destruído ou um templo abandonado.
+A presença divina muda a maneira como os 
+aventureiros percebem os acontecimentos. 
+Enquanto antes tudo podia se originar (ou 
+acabar) no mundo físico ou sem grandes 
+significados místicos, agora há algo mais 
+em jogo. Esta carta também pode ser uma 
+forma de lembrar os jogadores que sempre 
+há alguém acima deles ou mesmo de mos-
+trar que os heróis têm um protetor divino. 
+O mais importante nesta carta é o senti -
+mento de grandiosidade e transcendência. 
+Até mesmo um clérigo iniciante que cruza o 
+caminho dos aventureiros é alguém tocado 
+por um poder milagroso, até mesmo o me-
+nor templo no meio do nada é sinal de que 
+pessoas se dedicaram a uma divindade.
+presença divina
+
+===== PAGINA 57 =====
+Alguém em quem os aventureiros 
+confiavam se volta contra eles. 
+O importante aqui é a decepção e a quebra 
+do sentimento de segurança. Se o taverneiro 
+que eles encontraram há cinco minutos 
+serve uma cerveja envenenada, isso não 
+configura uma traição.
+Os jogadores devem sentir que os parâme-
+tros da história mudaram, devem repensar 
+todas as interações anteriores com o traidor. 
+Quantas vezes ele mentiu antes? T udo que 
+fez teve motivos escusos?
+Também pode ser que os heróis não sejam 
+as vítimas da traição, apenas vejam ela acon-
+tecer ou testemunhem seus efeitos. Nesse 
+caso, opte por algo realmente chocante: o 
+filho de um NPC se revela um sszzaazita, 
+a duquesa heroica sacrifica um plebeu num 
+ritual profano... Ver um personagem qual-
+quer sendo enganado e perdendo alguns 
+tibares não terá peso.
+Um traidor provavelmente nunca será per-
+doado pelos jogadores, mesmo que tente 
+se redimir depois. Assim, se usar um NPC 
+recorrente para esta subtrama, tenha em 
+mente que ele mudará para sempre.
+traição

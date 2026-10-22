@@ -1,0 +1,199 @@
+
+
+===== PAGINA 1 =====
+/
+10
+Mod. de
+Destreza
+Bônus de 
+ArmaduraDEFESA PROFICIÊNCIAS
+TAMANHO
+DESLOCAMENTOPONTOS DE EXPERIÊNCIA
+= ++
+Bônus de
+Escudo
+Penalidade de Armadura
+Outros
+++
+RAÇA ORIGEM CLASSE & NÍVEL DIVINDADE
+JOGADOR
+PERSONAGEM
+É permitido reproduzir esta página para uso pessoal. Em troca, visite-nos em www.jamboeditora.com.br.
+Versão editável feita por Rafa-el Lima e Tálison Teófilo para o site www.multiversos.com.br
+PONTOS DE VIDA
+EQUIPAMENTO
+Máximos MáximosAtuais Atuais
+Teste de Ataque Dano CríticoATAQUES Tipo Alcance
+PONTOS DE MANA
+Defesa
+Item ItemPeso
+CARGA MÁXIMA
+(3x Força)
+LEVANTAR
+(até 10x Força)
+Peso
+Penalidade
+Acrobacia/orn.002
+AdestramentoG
+Atletismo
+Atuação
+Cavalgar
+ConhecimentoG
+Cura
+Diplomacia
+Enganação
+Fortitude
+Furtividade/orn.002
+GuerraG
+Iniciativa
+Intimidação
+Intuição
+Investigação
+JogatinaG
+LadinagemG/orn.002
+Luta
+MisticismoG
+NobrezaG
+Ofício (________)G
+Ofício (________)G
+Percepção
+PilotagemG
+Pontaria
+Reflexos
+ReligiãoG
+Sobrevivência
+Vontade
+/orn.002Penalidade de armadura.   GSomente treinado.
+1/2 do 
+Nível
+Mod. de
+Atributo TreinoTOTAL
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+= +
+PERÍCIAS
+= +
+=
+=
++
++
+= +
+= +
+Outros
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+= + +
+=
+=
++
++
+= +
+= +
++
++
++
++
+= +
+DES + 
+CAR + 
+FOR + 
+CAR + 
+DES + 
+INT + 
+SAB + 
+CAR + 
+CAR + 
+CON + 
+DES + 
+INT + 
+DES + 
+CAR + 
+SAB + 
+INT + 
+CAR + 
+DES + 
+FOR + 
+INT + 
+INT + 
+INT + 
+INT + 
+SAB + 
+DES + 
+DES + 
+DES + 
+SAB + 
+SAB + 
+SAB + +
+FOR DES SABINT CARCON
+ARMADURA & ESCUDO
+T$:
+TO:
++
+
+===== PAGINA 2 =====
+DESCRIçÃO
+habilidades de raça e origem
+habilidades de classe e poderes
+magias
+ANOtaçÕES
+Histórico, aliados, tesouros etc.
+Magia Escola    Execução    Alcance    Área    Duração    Resistência    Efeito 
+(10 + 1/2 nível + mod. atributo-chave)ATRIBUTO-CHAVE MOD TESTE DE RESISTÊNCIA
+É permitido reproduzir esta página para uso pessoal. Em troca, visite-nos em www.jamboeditora.com.br.
+Versão editável feita por Rafa-el Lima e Tálison Teófilo para o site www.multiversos.com.br

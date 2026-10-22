@@ -1,0 +1,106 @@
+{
+  "activeCampaignId": "camp-arton-1",
+  "campaigns": [
+    {
+      "id": "camp-arton-1",
+      "name": "Crônicas de Arton",
+      "description": "Campanha principal em Tormenta20 (Livro Básico Jogo do Ano + Heróis de Arton)",
+      "currentDay": "Dia 1 — 10 de Buat, 1420",
+      "currentLocation": "Valkaria (Deheon)",
+      "partyCoordinates": [
+        -92.6487,
+        86.3341
+      ],
+      "players": [
+        {
+          "id": "pj-1",
+          "name": "Grokk (Exemplo)",
+          "player": "soza",
+          "race": "Galokk",
+          "classAndLevel": "Machado de Pedra 1",
+          "origin": "Amnésico",
+          "deity": "Megalokk",
+          "size": "Grande",
+          "displacement": "9m (6q)",
+          "forca": "+2",
+          "destreza": "+1",
+          "constituicao": "+4",
+          "inteligencia": "+1",
+          "sabedoria": "+2",
+          "carisma": "-1",
+          "pvCurrent": 28,
+          "pvMax": 28,
+          "pvTemp": 0,
+          "pmCurrent": 3,
+          "pmMax": 3,
+          "pmTemp": 0,
+          "defesa": "15",
+          "rd": "0",
+          "fortitude": "+6",
+          "reflexos": "+3",
+          "vontade": "+4",
+          "iniciativa": "+1",
+          "percepcao": "+2",
+          "luta": "+5",
+          "pontaria": "+1",
+          "cdMagia": "11",
+          "tibares": "0 T$",
+          "conditions": [],
+          "attacks": [
+            {
+              "id": "atq-1792600722284",
+              "name": "Novo Ataque",
+              "bonus": "+5",
+              "damage": "1d8+2",
+              "crit": "20/x2",
+              "type": "Corte",
+              "range": "Corpo a corpo"
+            }
+          ],
+          "powersAndSpells": "• Força dos Titãs (Galokk): 1 PM ao acertar para rolar dado extra no dano máximo.\n• Meio-Gigante: Tamanho Grande (alcance 3m, +2 manobras, –2 Furtividade), usa Força em Intimidação.\n• Machado de Pedra: +1 em ataque e dano com armas primitivas.\n• Estilo de Duas Mãos: +5 nas rolagens de dano.\n• Urro Divino (Megalokk): 1 PM para somar Con (+4) ao dano.",
+          "equipment": "Tacape grande (+1 passo de dano)",
+          "complicationOrDistinction": "Complicação: De Peito Aberto (não pode vestir armaduras e –2 limite de itens vestidos).",
+          "notes": "Você pode editar todos os campos livremente ou clicar em \"+ Novo Jogador\" para adicionar os 6, 8 ou mais jogadores da mesa.",
+          "color": "#e11d48"
+        }
+      ],
+      "customThreats": [],
+      "combat": {
+        "active": false,
+        "round": 1,
+        "turnIndex": 0,
+        "combatants": [],
+        "tacticalGridCols": 18,
+        "tacticalGridRows": 12
+      },
+      "mapPins": [
+        {
+          "id": "pin-start",
+          "mapId": "arton",
+          "coordinates": [
+            -92.6487,
+            86.3341
+          ],
+          "title": "Ponto de Encontro em Valkaria",
+          "category": "Missão",
+          "description": "Início da jornada do grupo aos pés da Estátua de Valkaria.",
+          "color": "#f97316"
+        }
+      ],
+      "travelRoute": [],
+      "sessions": [
+        {
+          "id": "sess-1",
+          "number": 1,
+          "title": "Sessão 1 — O Chamado em Arton",
+          "date": "21/10/2026",
+          "summary": "Anotações da sessão atual. Escreva aqui acontecimentos importantes, decisões dos jogadores e ganchos para a próxima sessão.",
+          "npcsMet": "",
+          "rewardsAndXp": ""
+        }
+      ],
+      "gmQuickNotes": "• Descanso Normal recupera 1 PV e 1 PM por nível (Confortável 2x, Luxuoso 3x, Ruim 1/2).\n• Sangrando (0 PV ou menos): Teste de Constituição CD 15 no início do turno; falha perde 1d6 PV.\n• Morte: –10 PV ou metade dos PV máximos negativo (o que for menor).\n• NPC: Perrin (Lefou, Arcanista de Wynlla) — Cabelos brancos prematuros e amuleto de Valkaria no pescoço. Trejeito: Sempre oferece comida apimentada ou gororoba antes de negociar. Gancho: É um informante secreto tentando testar a lealdade do grupo"
+    }
+  ],
+  "diceHistory": []
+}
